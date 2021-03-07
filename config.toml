@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://suspicious-boyd-b850e1.netlify.app"
 
 # The name of this wonderful theme ;-).
 theme = 'hugo-bearblog'
