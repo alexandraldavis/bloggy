@@ -1,5 +1,5 @@
 +++
-title = "My New Post"
+title = "An introduction"
 date = "2021-03-06T10:00:38-06:00"
 
 #
@@ -7,7 +7,7 @@ date = "2021-03-06T10:00:38-06:00"
 #
 # description = "An optional description for SEO. If not provided, an automatically created summary will be used."
 
-tags = []
+tags = [#hello]
 +++
 
-This is a page about »My New Post«.
+This is my very first post. This is a test. Have a good day.
