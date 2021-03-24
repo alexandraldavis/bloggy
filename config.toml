@@ -4,7 +4,7 @@ baseURL = "https://suspicious-boyd-b850e1.netlify.app"
 theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
-title = "Hugo ʕ•ᴥ•ʔ Bear Blog"
+title = "Bagsy ʕ•ᴥ•ʔ Blog"
 author = "Alexandra Davis"
 copyright = "Copyright © 2021, Alexandra Davis."
 languageCode = "en-US"
@@ -20,6 +20,7 @@ ignoreErrors = ["error-disable-taxonomy"]
   blog = "/:slug/"
   tags = "/blog/:slug"
   about = "/:slug/"
+  books = "/:slug/"
 
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
