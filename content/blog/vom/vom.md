@@ -71,5 +71,3 @@ speaking Mandarin transforms meaning. I rely on German and Russian examples beca
 others. In the future I will peel other layers of linguistic precision. I doubt I offer more than a "German for Beginners" or "Russian 101" page does, 
 but it helps me to write this because my Russian is not great. Plus, I think it's pretty cool.
 
-<script defer src="https://cdn.commento.io/js/commento.js"></script>
-<div id="commento"></div>
