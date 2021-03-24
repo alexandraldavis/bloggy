@@ -11,6 +11,9 @@
 {{ end }}{{ end }}
 <content>
   {{ .Content }}
+  {{ if eq .Type "blog" }}
+  {{ partial "welcomments/comments" (dict "context" . "websiteId" "E5mR8LbmuNYYIXaL4Zxc" ) }}
+  {{ end }}
 </content>
 <p>
   {{ range (.GetTerms "tags") }}
